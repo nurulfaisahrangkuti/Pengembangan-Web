@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Implementasi JavaScript</title>
+</head>
+<body>
+
+<h1>Contoh Implementasi JavaScript</h1>
+
+<!-- Output -->
+<p id="output"></p>
+
+<script>
+    // Variabel
+    let angka1 = 10;
+    let angka2 = 5;
+
+    // Operator
+    let tambah = angka1 + angka2;
+    let kurang = angka1 - angka2;
+    let kali = angka1 * angka2;
+    let bagi = angka1 / angka2;
+
+    // Struktur kondisi
+    if (tambah > kurang) {
+        document.getElementById('output').innerHTML += "Hasil tambah lebih besar dari hasil kurang.<br>";
+    } else {
+        document.getElementById('output').innerHTML += "Hasil kurang lebih besar dari hasil tambah.<br>";
+    }
+
+    // Struktur perulangan
+    document.getElementById('output').innerHTML += "Perulangan 1-5:<br>";
+    for (let i = 1; i <= 5; i++) {
+        document.getElementById('output').innerHTML += i + "<br>";
+    }
+
+    document.getElementById('output').innerHTML += "Perulangan 5-1:<br>";
+    for (let i = 5; i >= 1; i--) {
+        document.getElementById('output').innerHTML += i + "<br>";
+    }
+</script>
+</body>
+</html>
