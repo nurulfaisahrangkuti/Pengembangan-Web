@@ -28,8 +28,7 @@
     <a href="Modul 3.2.html">HTML dan CSS </a>
     <a href="Modul 4.html">Web Dropdown Menu </a>
     <a href="Modul 5.3.html">Pameran Buku </a>
-    <a href="Modul 5.2.html">Implementasi Javascript </a>
-    
+    <a href="Modul 5.2.html">Implementasi Javascript </a>    
 </div>
 
 
@@ -37,9 +36,9 @@
     <head>
 <center><h1>WELCOME TO LIBRARY </h1>
     <img src="https://www.nusabali.com/article_images/35867/badung-tambah-koleksi-buku-perpustakaan-sd-senila-800-2018-08-13-105154_0.jpg" style="width:1340px;height:300px;" align="middle">
-    <th><i><h3 style="color:rgb(206, 202, 202)"> Berikut ini contoh website perpustakaan yang dibuat untuk memenuhi tugas pada mata kuliah Pemrograman Web Praktik </i> </h3>
+    <th><i><h3 style="color:rgb(206, 202, 202)"> Berikut ini contoh website perpustakaan yang dibuat untuk memenuhi tugas pada mata kuliah Pemrograman Web Praktik,Program Studi S1 Ilmu Perpustakaan Dan Sains Informasi Universitas Sumatera Utara </i> </h3>
 <footer style="text-align: center;">
-    <p>Copyright &copy; 210709047</p>
+    <p>Copyright &copy; Faisah (210709047)</p>
 </footer>
 
 
